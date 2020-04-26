@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Selenium.UI.Test", "Selenium.UI.Test\Selenium.UI.Test.csproj", "{38689B05-A061-48EC-ADB1-E24AF7A5A943}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumExtensions", "SeleniumExtensions\SeleniumExtensions.csproj", "{495F86C6-3ADC-413B-8C6D-C428F8700A04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumExtensions", "SeleniumExtensions\SeleniumExtensions.csproj", "{495F86C6-3ADC-413B-8C6D-C428F8700A04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
