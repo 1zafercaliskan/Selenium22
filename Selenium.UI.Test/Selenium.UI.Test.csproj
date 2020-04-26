@@ -20,4 +20,8 @@
     <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="81.0.4044.6900" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SeleniumExtensions\SeleniumExtensions.csproj" />
+  </ItemGroup>
+
 </Project>

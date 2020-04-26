@@ -4,7 +4,7 @@ using OpenQA.Selenium.Chrome;
 
 namespace SeleniumExtensions
 {
-    class DriverUtility
+    public class DriverUtility
     {
         private static ChromeOptions options = new ChromeOptions();
 
