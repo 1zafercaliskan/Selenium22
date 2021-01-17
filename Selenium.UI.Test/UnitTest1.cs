@@ -26,7 +26,7 @@ namespace Selenium.UI.Test
         [TestMethod]
         public void TestMethod1()
         {
-            driver.GoToUrl("https://www.google.com.tr");
+            driver.GoToUrl("https://www.google.com");
         }
     }
 }
